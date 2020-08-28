@@ -1,4 +1,3 @@
 # buy_now_or_buy_the_dip
-GA Python Programming 2019-20 Final Project
 
-"close.csv" file obtained from Tiingo (see https://github.com/hydrosquall/tiingo-python)
+"close.csv" file was obtained from [Tiingo](https://github.com/hydrosquall/tiingo-python)
